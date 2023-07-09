@@ -30,7 +30,8 @@ Python libraries for the following were imported: Data Analysis, Data Visualizat
 - Some features in the dataset were normalized using MinMaxScaler
 
 # Model Building
-Using Logistic Regression and Random Forest Classifier, a machine learning model was built to predict the likelihood of patients having heart disease
+- The data was split into training and testing sets
+- Using Logistic Regression and Random Forest Classifier, a machine learning model was built to predict the likelihood of patients having heart disease
 
 # Model Evaluation
-The models built were accessed using the following metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC Score, and Confusion Matrix
+The models built were evaluated using the following metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC Score, and Confusion Matrix
