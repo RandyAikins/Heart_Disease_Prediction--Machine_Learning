@@ -25,7 +25,7 @@ Python libraries for the following were imported: Data Analysis, Data Visualizat
 - Chest Pain types were analyzed and heart disease among patients with the chest pain type was looked at
 - Correlation among the various features and heart disease was analyzed with exercise_induced_angina having the strongest relationship with heart disease
 
-## Feature Engineering and Data Preprocessing
+## Data Preprocessing
 - The dataset was segmented into predictor variables and target variables for the machine-learning modeling
 - Some features in the dataset were normalized using MinMaxScaler
 
