@@ -1,4 +1,4 @@
-# Heart_Disease_Prediction--Machine_Learning
+# Heart Disease Prediction
 This Supervised Machine Learning Model predicts the likelihood of a patient having heart disease based on given features. The project was built using Python.
 
 ## Processes
